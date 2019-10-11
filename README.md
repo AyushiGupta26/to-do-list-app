@@ -1,13 +1,10 @@
-# Sample Snack app
+# ToDo List App
 
-Welcome to Expo!
+This app is implemented on the expo platform. You can download this project and run it either on the expo platform in the browser or in their app (available for both iOS and Android).
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by clicking the **Run** button or use the simulator by clicking **Tap to Play**. When you're done, click **Save** and share the link!
-
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Export** your project and use it with [expo-cli](https://docs.expo.io/versions/latest/introduction/installation.html).
+You can **Export** this project and use it with [expo-cli](https://docs.expo.io/versions/latest/introduction/installation.html).
 
 Projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the **Embed** button.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack-web).
+The main code is in the App.js file which uses the component ToDo defined in the ToDo.js file.
+To enable the use of Firebase, dependencies were added in the package.json file and then the firebase was imported and configured n the fire.js file.
