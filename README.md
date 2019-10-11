@@ -8,3 +8,7 @@ Projects created in Snack are publicly available, so you can easily share the li
 
 The main code is in the App.js file which uses the component ToDo defined in the ToDo.js file.
 To enable the use of Firebase, dependencies were added in the package.json file and then the firebase was imported and configured n the fire.js file.
+
+![Screenshot_2019-10-11-16-27-51-064_host exp exponent](https://user-images.githubusercontent.com/49456940/66647452-9862fa00-ec46-11e9-8ae4-3b9ad0586434.png)
+![Screenshot_2019-10-11-16-28-20-378_host exp exponent](https://user-images.githubusercontent.com/49456940/66647492-b3356e80-ec46-11e9-90c5-bcc23a26b6d5.png)
+![Screenshot_2019-10-11-16-28-32-421_host exp exponent](https://user-images.githubusercontent.com/49456940/66647499-b7618c00-ec46-11e9-9c58-f61fe88b7200.png)
